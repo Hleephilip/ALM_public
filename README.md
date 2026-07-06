@@ -4,7 +4,7 @@
 
 ### ECCV 2026
 
-[Hyunsoo Lee](https://scholar.google.co.kr/citations?user=6JNXaH0AAAAJ&hl=en) ·
+[Hyunsoo Lee](https://hleephilip.github.io/) ·
 [Inwoo Hwang](https://inwoohwang.me/) ·
 [Young Min Kim](https://3d.snu.ac.kr/members/)
 
