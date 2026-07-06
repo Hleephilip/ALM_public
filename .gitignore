@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Environments and local configuration
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
+
+# Generated results and caches
+outputs/
+results/
+.cache/
+.local/
+wandb/
+
+# Model weights
+*.bin
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+
+# Motion completion: data and models
+data/motion/HumanML3D/
+data/motion/glove/
+data/motion/evaluators/
+data/motion/body_models/
+checkpoints/motion/

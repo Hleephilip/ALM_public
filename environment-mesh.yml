@@ -1,0 +1,22 @@
+name: ALM-mesh
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.18
+  - pip=23.3.1
+  - numpy=1.24.4
+  - pillow=10.2.0
+  - pip:
+      - torch==2.0.0
+      - torchvision==0.15.1
+      - accelerate==0.25.0
+      - cupy-cuda11x==12.2.0
+      - diffusers==0.19.3
+      - fvcore==0.1.5.post20221221
+      - huggingface-hub==0.20.1
+      - iopath==0.1.10
+      - pytorch3d @ https://dl.fbaipublicfiles.com/pytorch3d/packaging/wheels/py38_cu117_pyt200/pytorch3d-0.7.3-cp38-cp38-linux_x86_64.whl
+      - safetensors==0.4.1
+      - transformers==4.28.1
+      - xatlas==0.0.8
